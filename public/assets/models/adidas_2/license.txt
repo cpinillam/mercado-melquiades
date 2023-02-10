@@ -1,0 +1,11 @@
+Model Information:
+* title:	Adidas Racer TR21
+* source:	https://sketchfab.com/3d-models/adidas-racer-tr21-bc0d0141da164d3c9f9fe71f6f340c9b
+* author:	inciprocal (https://sketchfab.com/inciprocal.com)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Adidas Racer TR21" (https://sketchfab.com/3d-models/adidas-racer-tr21-bc0d0141da164d3c9f9fe71f6f340c9b) by inciprocal (https://sketchfab.com/inciprocal.com) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
